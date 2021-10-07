@@ -1,11 +1,4 @@
 
-input, input:before, input:after {
-  -webkit-user-select: initial;
-  -khtml-user-select: initial;
-  -moz-user-select: initial;
-  -ms-user-select: initial;
-  user-select: initial;
- } 
 
 
 html,
@@ -38,7 +31,6 @@ body {
   resize: none;
   height: calc(100% - 63px);
   padding-top: 15px;
-  margin-top: 15px;
 }
 
 .note-title {
