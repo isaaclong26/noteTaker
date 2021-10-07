@@ -76,3 +76,7 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+
+.bg-dark{
+  background-color: rgb(92, 113, 184) !important;
+}
