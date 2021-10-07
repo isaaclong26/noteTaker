@@ -34,6 +34,7 @@ body {
   height: 50px;
   margin-top: 13px;
   font-size: 3rem;
+  padding-bottom: 10px;
 }
 
 .note-title:read-only,
